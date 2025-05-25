@@ -7,3 +7,4 @@ Main Features of Parichay ->
 5)  Live Style Switcher
 6)  5 Color Skins
 7)  Light/Dark
+8)  Technology used JSP,MySql,etc
