@@ -6,5 +6,5 @@ Main Features of Parichay ->
 4)  Well-commented code
 5)  Live Style Switcher
 6)  5 Color Skins
-7)  Light/Dark
+7)  Light/Dark Mode 
 8)  Technology used JSP,MySql,etc
