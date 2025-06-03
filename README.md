@@ -8,3 +8,4 @@ Main Features of Parichay ->
 6)  5 Color Skins
 7)  Light/Dark Mode 
 8)  Technology used JSP,MySql,etc
+9)  Real Estate Project also added
