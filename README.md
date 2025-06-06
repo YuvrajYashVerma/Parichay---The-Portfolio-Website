@@ -9,3 +9,4 @@ Main Features of Parichay ->
 7)  Light/Dark Mode 
 8)  Technology used JSP,MySql,etc
 9)  Real Estate Project also added
+10) Learned SQL
